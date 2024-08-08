@@ -77,7 +77,7 @@ Bu bölümde, botun nasıl çalıştığını gösteren bir GIF ekleyebilirsiniz
 
 ## Katkıda Bulunanlar
 
-- [Senin Adın](https://github.com/senin-adin)
+- [Aykan SARIDOĞAN](https://github.com/aykansaridogan)
 
 ## Lisans
 
