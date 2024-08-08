@@ -1,0 +1,2 @@
+# basicwpbot
+Basic Whatsapp Bot
