@@ -69,9 +69,6 @@ Bu proje, Node.js kullanarak basit bir WhatsApp botu oluşturmayı gösterir. Bo
 
 Konsolda görünen QR kodunu WhatsApp Web üzerinden tarayarak botunuzu WhatsApp hesabınıza bağlayın.
 
-## Görseller
-
-Bu bölümde, botun nasıl çalıştığını gösteren bir GIF ekleyebilirsiniz:
 
 ![Bot Animasyonu](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
