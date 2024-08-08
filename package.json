@@ -1,0 +1,22 @@
+{
+  "name": "basitbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cosmiconfig": "^9.0.0",
+    "devtools-protocol": "^0.0.1323165",
+    "nodemailer": "^6.9.14",
+    "puppeteer": "^22.12.1",
+    "puppeteer-core": "^22.12.1",
+    "qrcode-terminal": "^0.12.0",
+    "some-module": "^0.0.3",
+    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js#webpack-exodus"
+  }
+}
